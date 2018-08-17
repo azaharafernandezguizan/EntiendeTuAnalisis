@@ -1,0 +1,17 @@
+C:\Users\azaha\source\repos\AnalisisApi\DTOs\bin\Debug\netcoreapp2.0\DTOs.deps.json
+C:\Users\azaha\source\repos\AnalisisApi\DTOs\bin\Debug\netcoreapp2.0\DTOs.dll
+C:\Users\azaha\source\repos\AnalisisApi\DTOs\bin\Debug\netcoreapp2.0\DTOs.pdb
+C:\Users\azaha\source\repos\AnalisisApi\DTOs\obj\Debug\netcoreapp2.0\DTOs.csprojResolveAssemblyReference.cache
+C:\Users\azaha\source\repos\AnalisisApi\DTOs\obj\Debug\netcoreapp2.0\DTOs.csproj.CoreCompileInputs.cache
+C:\Users\azaha\source\repos\AnalisisApi\DTOs\obj\Debug\netcoreapp2.0\DTOs.AssemblyInfoInputs.cache
+C:\Users\azaha\source\repos\AnalisisApi\DTOs\obj\Debug\netcoreapp2.0\DTOs.AssemblyInfo.cs
+C:\Users\azaha\source\repos\AnalisisApi\DTOs\obj\Debug\netcoreapp2.0\DTOs.dll
+C:\Users\azaha\source\repos\AnalisisApi\DTOs\obj\Debug\netcoreapp2.0\DTOs.pdb
+D:\GitHubRepo\EntiendeTuAnalisis\AnalisisApi\DTOs\bin\Debug\netcoreapp2.0\DTOs.deps.json
+D:\GitHubRepo\EntiendeTuAnalisis\AnalisisApi\DTOs\bin\Debug\netcoreapp2.0\DTOs.dll
+D:\GitHubRepo\EntiendeTuAnalisis\AnalisisApi\DTOs\bin\Debug\netcoreapp2.0\DTOs.pdb
+D:\GitHubRepo\EntiendeTuAnalisis\AnalisisApi\DTOs\obj\Debug\netcoreapp2.0\DTOs.csproj.CoreCompileInputs.cache
+D:\GitHubRepo\EntiendeTuAnalisis\AnalisisApi\DTOs\obj\Debug\netcoreapp2.0\DTOs.AssemblyInfoInputs.cache
+D:\GitHubRepo\EntiendeTuAnalisis\AnalisisApi\DTOs\obj\Debug\netcoreapp2.0\DTOs.AssemblyInfo.cs
+D:\GitHubRepo\EntiendeTuAnalisis\AnalisisApi\DTOs\obj\Debug\netcoreapp2.0\DTOs.dll
+D:\GitHubRepo\EntiendeTuAnalisis\AnalisisApi\DTOs\obj\Debug\netcoreapp2.0\DTOs.pdb

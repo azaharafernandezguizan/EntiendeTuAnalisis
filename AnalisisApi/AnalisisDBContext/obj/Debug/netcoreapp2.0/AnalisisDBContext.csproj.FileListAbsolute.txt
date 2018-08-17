@@ -1,0 +1,10 @@
+D:\GitHubRepo\EntiendeTuAnalisis\AnalisisApi\AnalisisDBContext\bin\Debug\netcoreapp2.0\AnalisisDBContext.deps.json
+D:\GitHubRepo\EntiendeTuAnalisis\AnalisisApi\AnalisisDBContext\bin\Debug\netcoreapp2.0\AnalisisDBContext.dll
+D:\GitHubRepo\EntiendeTuAnalisis\AnalisisApi\AnalisisDBContext\obj\Debug\netcoreapp2.0\AnalisisDBContext.csproj.CoreCompileInputs.cache
+D:\GitHubRepo\EntiendeTuAnalisis\AnalisisApi\AnalisisDBContext\obj\Debug\netcoreapp2.0\AnalisisDBContext.AssemblyInfoInputs.cache
+D:\GitHubRepo\EntiendeTuAnalisis\AnalisisApi\AnalisisDBContext\obj\Debug\netcoreapp2.0\AnalisisDBContext.AssemblyInfo.cs
+D:\GitHubRepo\EntiendeTuAnalisis\AnalisisApi\AnalisisDBContext\bin\Debug\netcoreapp2.0\AnalisisDBContext.pdb
+D:\GitHubRepo\EntiendeTuAnalisis\AnalisisApi\AnalisisDBContext\obj\Debug\netcoreapp2.0\AnalisisDBContext.dll
+D:\GitHubRepo\EntiendeTuAnalisis\AnalisisApi\AnalisisDBContext\obj\Debug\netcoreapp2.0\AnalisisDBContext.pdb
+D:\GitHubRepo\EntiendeTuAnalisis\AnalisisApi\AnalisisDBContext\bin\Debug\netcoreapp2.0\AnalisisDBContext.runtimeconfig.json
+D:\GitHubRepo\EntiendeTuAnalisis\AnalisisApi\AnalisisDBContext\bin\Debug\netcoreapp2.0\AnalisisDBContext.runtimeconfig.dev.json
